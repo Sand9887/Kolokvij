@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kolokvij</string>
+    <string name="aktiv">Aktivnost</string>
+    <string name="datum">Datum</string>
+    <string name="komentar">"Komentar"</string>
+    <string name="ocjena">Ocjena</string>
+    <string name="ocjena1">Ukupna ocjena</string>
+</resources>
